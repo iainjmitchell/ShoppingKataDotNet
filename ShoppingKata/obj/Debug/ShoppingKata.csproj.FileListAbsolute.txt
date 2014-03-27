@@ -2,6 +2,5 @@ C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\bin\Debug\ShoppingKata.dll
 C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\bin\Debug\ShoppingKata.pdb
 C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\bin\Debug\nunit.framework.dll
 C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\bin\Debug\nunit.framework.xml
-C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\obj\Debug\ShoppingKata.csprojResolveAssemblyReference.cache
 C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\obj\Debug\ShoppingKata.dll
 C:\workspace\Kata\ShoppingKataDotNet\ShoppingKata\obj\Debug\ShoppingKata.pdb
