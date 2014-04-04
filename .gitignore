@@ -1,3 +1,5 @@
 packages
 *.suo
 *.user
+*.dll
+*.pdb
